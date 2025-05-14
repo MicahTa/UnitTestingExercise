@@ -18,5 +18,8 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\UnitTestingExercise\UnitTestingExercise.csproj" />
+  </ItemGroup>
 
 </Project>
